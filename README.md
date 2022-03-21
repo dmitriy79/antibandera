@@ -1,4 +1,4 @@
-![](https://github.com/gazprom-shares/zelen/raw/master/images.png)
+![](https://github.com/gazprom-shares/zelen/raw/main/images.png)
 
 # AntiBandera Coin (ZELEN) v.1.0.0
 
