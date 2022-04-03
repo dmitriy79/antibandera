@@ -162,7 +162,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x000005a878d300c355bafd74c18c58c4e89f61307aa7b28e95b5ddf384840d76"));
         assert(genesis.hashMerkleRoot == uint256S("0x264784f3f5d2ce1153b0f676f3d25696ae9de76b188a2ba307bcaa9f285ffe9a"));
 
-        vSeeds.push_back(CDNSSeedData("82.162.62.46", "82.162.62.46"));
+        vSeeds.push_back(CDNSSeedData("antibandera.hopto.org", "antibandera.hopto.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
